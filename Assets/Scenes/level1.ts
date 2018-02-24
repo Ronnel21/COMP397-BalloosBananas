@@ -1,5 +1,5 @@
-module scene{
-    export class Level1 extends objects.Scene{
+module scenes{
+    export class Level1Scene extends objects.Scene{
 
         //Private Variables
         private player: objects.Player;
